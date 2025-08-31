@@ -1,0 +1,2 @@
+steps:
+- bash: echo "The greenfalcon pipeline runs first"
